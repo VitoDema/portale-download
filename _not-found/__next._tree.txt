@@ -1,2 +1,2 @@
-:HL["/portale-download/_next/static/chunks/1pvmscgahjhuc.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"b5TotqpCeS2ZgPpUak6dF"}
+:HL["/portale-download/_next/static/chunks/31dbl-k1gjps1.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"caZsEiHlGMqRZYndSQ9oT"}
